@@ -1,0 +1,2 @@
+-- original by AetherCreator
+loadstring(game:HttpGet("https://files.catbox.moe/ml9u7i.txt"))()
